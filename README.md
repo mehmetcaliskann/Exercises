@@ -1,1 +1,3 @@
-HW 1
+Repository for all HWs
+
+**Mehmet Çalışkan**
