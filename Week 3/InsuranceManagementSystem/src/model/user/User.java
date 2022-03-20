@@ -82,15 +82,11 @@ public class User {
 
     @Override
     public String toString() {
-        return "User{" +
-                "name='" + name + '\'' +
+        return "name='" + name + '\'' +
                 ", surname='" + surname + '\'' +
                 ", email='" + email + '\'' +
-                ", password='" + password + '\'' +
                 ", job='" + job + '\'' +
                 ", age=" + age +
-                ", addressList=" + addressList +
-                ", lastLoginDate=" + lastLoginDate +
                 '}';
     }
 
