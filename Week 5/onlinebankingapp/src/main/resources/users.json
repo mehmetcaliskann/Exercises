@@ -1,0 +1,26 @@
+[
+  {
+    "tcKimlikNo": "11111111111",
+    "password": "532FDSG53Y",
+    "birthDate": "2000-01-01",
+    "balance": 25500
+  },
+  {
+    "tcKimlikNo": "63893515594",
+    "password": "RESV424",
+    "birthDate": "2000-01-01",
+    "balance": 26789
+  },
+  {
+    "tcKimlikNo": "30261157656",
+    "password": "F42FSDGG4",
+    "birthDate": "1998-02-01",
+    "balance": 65000
+  },
+  {
+    "tcKimlikNo": "35358905424",
+    "password": "FAC_41RFSDF",
+    "birthDate": "1973-12-10",
+    "balance": 135000
+  }
+]

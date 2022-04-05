@@ -1,0 +1,20 @@
+[
+  {
+    "senderTcKimlikNo": "11111111111",
+    "receiverTcKimlikNo": "30261157656",
+    "performedAt": "2022-04-03T13:21:24.5040303",
+    "amount": 100
+  },
+  {
+    "senderTcKimlikNo": "30261157656",
+    "receiverTcKimlikNo": "35358905424",
+    "performedAt": "2022-04-03T13:33:10.814163",
+    "amount": 5000
+  },
+  {
+    "senderTcKimlikNo": "30261157656",
+    "receiverTcKimlikNo": "35358905424",
+    "performedAt": "2022-04-03T13:34:27.3547691",
+    "amount": 5000
+  }
+]
